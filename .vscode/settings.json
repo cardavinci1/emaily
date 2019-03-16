@@ -1,0 +1,18 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.sideBar.location": "left",
+  "editor.fontSize": 12,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "git.ignoreMissingGitWarning": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Default High Contrast",
+  "javascript.updateImportsOnFileMove.enabled": "prompt"
+}
