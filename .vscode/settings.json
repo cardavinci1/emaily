@@ -13,6 +13,6 @@
   },
   "editor.formatOnSave": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Default High Contrast",
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
   "javascript.updateImportsOnFileMove.enabled": "prompt"
 }
